@@ -1,2 +1,2 @@
-# skimage_segmentation
-segment object using scikit-image and opencv
+# Introduction
+The project serves as a sub-project of amazon picking challenge.
